@@ -34,7 +34,6 @@
     }
 
     .nav {
-        /* font-size: 15px; */
 		display: flex;
 		justify-content: space-evenly;
 		align-items: center;
@@ -80,7 +79,7 @@
 	}
 
 	.test {
-        color: black;
+        color: white;
         text-decoration: none;
         transition: color 0.2s linear;
         margin: 0 30px;

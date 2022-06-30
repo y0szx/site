@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>Projects</title>
+    <title>Projects&Contacts</title>
 </svelte:head>
 
 <section class="project">

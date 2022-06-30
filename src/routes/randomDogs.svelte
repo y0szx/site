@@ -21,6 +21,10 @@
     });
 </script>
 
+<svelte:head>
+    <title>Random Dogs</title>
+</svelte:head>
+
 <!-- svelte-ignore a11y-missing-content -->
 <a name="randomdogs" />
 <h4 class="titlefordogs">Below you can see random dogs. Enjoy:)</h4>
