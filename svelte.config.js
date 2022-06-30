@@ -14,7 +14,7 @@ const config = {
 		},
 
 		paths: {
-			base: dev ? '' : '/website',
+			base: dev ? '' : '/site',
 		},
 
 		methodOverride: {
